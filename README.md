@@ -1,4 +1,4 @@
-# Robot Manufacturing Supply Chain Document
+# Supply Chain Document for Robot Manufacturing
 
 ## Robot Components:
 
